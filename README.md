@@ -58,6 +58,7 @@ The goal is to track **application reliability, SLA compliance, and incident tre
 *(Add a screenshot of your dashboard here by uploading the image to the repo and linking it)*  
 
 ```markdown
-![Dashboard Preview](./dashboard_preview.png)
+<img width="1309" height="733" alt="image" src="https://github.com/user-attachments/assets/4c0b8910-fd48-4ba1-803e-c2c3adad3c28" />
+
 <img width="1309" height="733" alt="PowerBI" src="https://github.com/user-attachments/assets/42c03dbe-eea5-46c2-a41a-82949a2a4f7f" />
 
