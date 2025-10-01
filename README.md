@@ -60,6 +60,7 @@ The goal is to track **application reliability, SLA compliance, and incident tre
 ```markdown
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](./PowerBI.png)
+![Dashboard Preview](<img width="1309" height="733" alt="PowerBI" src="https://github.com/user-attachments/assets/18339504-c62c-4f41-af9a-b2979376cc31" />
+)
 
 
