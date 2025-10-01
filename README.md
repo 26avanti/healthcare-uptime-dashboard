@@ -60,7 +60,7 @@ The goal is to track **application reliability, SLA compliance, and incident tre
 ```markdown
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](https://github.com/sql2131/healthcare-uptime-dashboard/blob/main/PowerBI.png)
+![Dashboard Preview]([https://github.com/sql2131/healthcare-uptime-dashboard/blob/main/PowerBI.png](https://github.com/sql2131/healthcare-uptime-dashboard/blob/main/PowerBI.png))
 
 
 
