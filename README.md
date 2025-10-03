@@ -55,12 +55,8 @@ The goal is to track **application reliability, SLA compliance, and incident tre
 ---
 
 ## 📷 Dashboard Preview
-*(Add a screenshot of your dashboard here by uploading the image to the repo and linking it)*  
+<img width="1446" height="774" alt="image" src="https://github.com/user-attachments/assets/9da33a7c-bd09-4226-889d-343dc1f89f57" />
 
-```markdown
-## 📷 Dashboard Preview
-
-![Dashboard Preview](https://github.com/sql2131/healthcare-uptime-dashboard/blob/main/PowerBI.png)
 
 
 
